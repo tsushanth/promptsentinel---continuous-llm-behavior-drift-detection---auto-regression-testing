@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "promptsentinel"
+version = "0.1.0"
+description = "Continuous LLM behavior-drift detection & auto-regression testing (local MVP)."
+requires-python = ">=3.9"
+dependencies = []
+
+[project.scripts]
+promptsentinel = "promptsentinel.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["promptsentinel*"]

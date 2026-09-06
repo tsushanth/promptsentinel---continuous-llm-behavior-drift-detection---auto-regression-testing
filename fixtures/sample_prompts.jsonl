@@ -1,0 +1,12 @@
+{"id": "p_001", "prompt": "What is the capital of France?", "meta": {"use_case": "qa"}}
+{"id": "p_002", "prompt": "Extract the name and age as JSON from: John is 34 years old.", "meta": {"use_case": "json_extraction"}}
+{"id": "p_003", "prompt": "Write a two-line poem about autumn leaves.", "meta": {"use_case": "creative"}}
+{"id": "p_004", "prompt": "Summarize in one sentence: The quick brown fox jumps over the lazy dog every afternoon in the park.", "meta": {"use_case": "summarization"}}
+{"id": "p_005", "prompt": "List three prime numbers less than 10.", "meta": {"use_case": "qa"}}
+{"id": "p_006", "prompt": "Convert 10 miles to kilometers.", "meta": {"use_case": "qa"}}
+{"id": "p_007", "prompt": "Give me a JSON array of 3 fruit names.", "meta": {"use_case": "json_extraction"}}
+{"id": "p_008", "prompt": "Explain photosynthesis in one sentence.", "meta": {"use_case": "explanation"}}
+{"id": "p_009", "prompt": "Translate the word 'hello' into Spanish.", "meta": {"use_case": "translation"}}
+{"id": "p_010", "prompt": "What year did World War II end?", "meta": {"use_case": "qa"}}
+{"id": "p_011", "prompt": "Recommend a good name for a pet goldfish.", "meta": {"use_case": "creative"}}
+{"id": "p_012", "prompt": "Is Python or JavaScript better for beginners?", "meta": {"use_case": "qa"}}
